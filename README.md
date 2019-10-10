@@ -1,5 +1,6 @@
 # parallel-cross-browser
 Example on how to run the same cucumber scenario in several browsers, in parallel.
+TODO: Better explanation
 
 ## Prerequisites
 You need both Ruby and Bundler (https://bundler.io/) installed to run this project.
